@@ -2,6 +2,7 @@
 my solution of dl_school exercise
 
 1) Telecom client churn
+
 https://www.kaggle.com/c/advanced-dls-fall-2020
 Kaggle competition with using gradient boosting models (CatBoost)
 
